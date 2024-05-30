@@ -1,0 +1,27 @@
+html {
+  font-size: 45%; /* default: 62.5% */
+  font-family: "Inter";
+}
+
+.container {
+  width: 40vw;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+.title-text {
+  font-size: 3rem;
+}
+
+.bio-text {
+  font-size: 2.5rem;
+}
+
+.description-text {
+  font-size: 2rem;
+  line-height: 3.5rem;
+}
+
+.signature {
+  height: 15rem;
+}
